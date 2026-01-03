@@ -18,6 +18,7 @@ console.log(`Creating "${dst}"...`);
 const src = join(__dirname, 'deploy');
 const ignore = [
 	'.git',
+	'version.sh',
 ].map(each => join(src, each));
 
 cpSync(src, dst, {
