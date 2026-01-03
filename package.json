@@ -1,0 +1,21 @@
+{
+  "name": "create-spa.ce",
+  "version": "1.0.0",
+  "description": "xxx",
+  "main": "index.js",
+  "bin": {
+    "create-spa.ce": "index.js"
+  },
+  "scripts": {
+    "test": "echo noop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amekusa/spa.ce.git"
+  },
+  "keywords": [
+    "spa"
+  ],
+  "author": "Satoshi Soma (github.com/amekusa)",
+  "license": "MIT"
+}
